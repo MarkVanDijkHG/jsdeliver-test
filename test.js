@@ -1,1 +1,1 @@
-console.log("This is version 1.0.0 of the test");
+console.log("This is version 1.1.0 of the test");
